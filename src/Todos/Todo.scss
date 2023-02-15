@@ -1,0 +1,30 @@
+.input-add-todo {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.todo-child {
+
+    width: 400px;
+    margin: 15px auto;
+
+    border: solid;
+
+    .child {
+        display: flex !important;
+        justify-content: space-between;
+    }
+
+    .bnt-X {
+        display: flex;
+    }
+
+
+
+}
+
+.incomplete {
+    background-color: rgb(25, 206, 25);
+}
